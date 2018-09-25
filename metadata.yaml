@@ -1,16 +1,21 @@
 _repo: A-Treatyse-of-Fysshynge-wyth-an-Angle-Being-a-facsimile-reproduction-of-the-first-book-on-the__57943
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Watkins, M. G.
     gutenberg_agent_id: '49700'
     url: http://www.gutenberg.org/2009/agents/49700
+covers:
+- cover_type: archival
+  image_path: 57943-h/images/cover.jpg
 creator:
   author:
     agent_name: Berners, Juliana
     gutenberg_agent_id: '49699'
     url: http://www.gutenberg.org/2009/agents/49699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57943#A-Treatyse-of-Fysshynge-wyth-an-Angle-Being-a-facsimile-reproduction-of-the-first-book-on-the_
 gutenberg_issued: '2018-09-21'
 gutenberg_type: Text
 identifiers:
